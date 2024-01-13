@@ -1,16 +1,16 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      小白的第一篇博客 				# 标题 
-subtitle:   Hello 小白 #副标题
+title:      小凡的第一篇博客 				# 标题 
+subtitle:   Hello 小凡 #副标题
 date:       2024-01-10				# 时间
-author:     小白						# 作者
+author:     小凡					# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 生活
 ---
 
-## Hey 小白
+## hello 小凡
 >这是我的第一篇博客。
 
 博客是一种个人或团体在互联网上发布文章和观点的网站。它是一个在线的交流平台，让作者可以分享自己的知识、经验、观点和创意，并与读者进行互动和讨论。
